@@ -96,10 +96,11 @@ margin-top:20px}
 .booking{
    padding:20px 100px 0px 100px;
   background: black;
-  
+  display: flex;
+    justify-content: space-between;
 }
 .booking div{
   background:blue;
     padding:20px 20px;
-  align-items: center;
+  
 }
